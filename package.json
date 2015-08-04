@@ -1,0 +1,20 @@
+{
+  "name": "penandpaper",
+  "version": "0.0.1",
+  "description": "starwars pen and paper tools",
+  "main": "index.js",
+  "dependencies": {
+    "express": "latest",
+    "gulp": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waveofbabies/penandpaper"
+  },
+  "author": "",
+  "license": "ISC"
+}
